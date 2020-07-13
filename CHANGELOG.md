@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-storage?activeTab=versions
 
+## [5.2.0](https://www.github.com/googleapis/nodejs-storage/compare/v5.1.2...v5.2.0) (2020-07-13)
+
+
+### Features
+
+* remove through2 dependency ([#1240](https://www.github.com/googleapis/nodejs-storage/issues/1240)) ([97c73dd](https://www.github.com/googleapis/nodejs-storage/commit/97c73ddec4dbb7cbf7a1486c16ed24dbe9be6d83))
+
 ### [5.1.2](https://www.github.com/googleapis/nodejs-storage/compare/v5.1.1...v5.1.2) (2020-07-06)
 
 
